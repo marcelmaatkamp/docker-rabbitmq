@@ -5,4 +5,5 @@ RUN
    rabbitmq_shovel \
    rabbitmq_shovel_management \
    rabbitmq_federation \
-   rabbitmq_federation_management
+   rabbitmq_federation_management \
+   rabbitmq_mqtt
